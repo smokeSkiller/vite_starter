@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Manrope:wght@200..800&display=swap');
+
+@import "vars";
+@import "mixins";
+@import "libs";
+@import "reset";
+
+// Sections
+@import './sections/components.scss';
+@import './sections/header.scss';
+@import './sections/footer.scss';
+@import './sections/sections.scss';
+
+@import "media"; // Always at the end

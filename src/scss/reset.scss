@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box !important;
+    outline: none;
+    font-family: "Manrope", sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+ul, menu {
+    list-style: none;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    outline: none;
+    word-break: break-word;
+    transition: all .3s ease;
+}
+
+input, textarea{
+    border: 0;
+}
+
+button, input[type="submit"] {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none !important;
+    transition: all .3s ease;
+}
