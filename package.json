@@ -20,6 +20,8 @@
     "vite": "^8.0.16"
   },
   "dependencies": {
+    "aos": "^2.3.4",
+    "jquery-mask-plugin": "^1.14.16",
     "swiper": "^12.2.0"
   }
 }
